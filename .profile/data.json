@@ -1,0 +1,472 @@
+{
+ "key": "998aadce",
+ "stars": 1,
+ "contributions": 181,
+ "repos": 35,
+ "followers": 0,
+ "languages": [
+  [
+   "TypeScript",
+   779989
+  ],
+  [
+   "Lua",
+   238233
+  ],
+  [
+   "HTML",
+   238223
+  ],
+  [
+   "Kotlin",
+   193059
+  ],
+  [
+   "CSS",
+   26432
+  ],
+  [
+   "Java",
+   13870
+  ],
+  [
+   "QML",
+   10702
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 16,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "ExperienceGui",
+   "url": "https://github.com/ARandomDumDev/ExperienceGui",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "ARandomDumDev",
+   "url": "https://github.com/ARandomDumDev/ARandomDumDev",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "NexusYandex",
+   "url": "https://github.com/ARandomDumDev/NexusYandex",
+   "text": "NexusNet for Yandex Station 2",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "notsupposedtofind",
+   "url": "https://github.com/ARandomDumDev/notsupposedtofind",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "nexusgnome",
+   "url": "https://github.com/ARandomDumDev/nexusgnome",
+   "text": "gnome theme thats very nice",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "musik",
+   "url": "https://github.com/ARandomDumDev/musik",
+   "text": "A Discord RPC helper for music with lyrics!!!",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "nexusbrowse",
+   "url": "https://github.com/ARandomDumDev/nexusbrowse",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "NexusImage",
+   "url": "https://github.com/ARandomDumDev/NexusImage",
+   "text": "Trying out making a new more lightweight version of image storing.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "nexusnet-android",
+   "url": "https://github.com/ARandomDumDev/nexusnet-android",
+   "text": "NexusNet android, so uhh this is open source because it’s not every single piece of code on nexusnet.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Amethyst-iOS",
+   "url": "https://github.com/ARandomDumDev/Amethyst-iOS",
+   "text": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for iOS/iPadOS platform.",
+   "fork": true,
+   "stars": 0,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "nexusplayone",
+   "url": "https://github.com/ARandomDumDev/nexusplayone",
+   "text": "nexusplay moderation system",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "randomai",
+   "url": "https://github.com/ARandomDumDev/randomai",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "YTLiteBuild",
+   "url": "https://github.com/ARandomDumDev/YTLiteBuild",
+   "text": "A flexible enhancer for YouTube on iOS",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "RandomDirect",
+   "url": "https://github.com/ARandomDumDev/RandomDirect",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "RandomLearn",
+   "url": "https://github.com/ARandomDumDev/RandomLearn",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RandomsStorage",
+   "url": "https://github.com/ARandomDumDev/RandomsStorage",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "censorg4m",
+   "url": "https://github.com/ARandomDumDev/censorg4m",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RandomGui",
+   "url": "https://github.com/ARandomDumDev/RandomGui",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "JavaScript-practice",
+   "url": "https://github.com/ARandomDumDev/JavaScript-practice",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ChatGPT-game",
+   "url": "https://github.com/ARandomDumDev/ChatGPT-game",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Teapot",
+   "url": "https://github.com/ARandomDumDev/Teapot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "randomencrypt",
+   "url": "https://github.com/ARandomDumDev/randomencrypt",
+   "text": "ChatGPT was live coding with me and he hates me so don’t expect good website and professional stuff he changed the name idk what he changed it to",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "RandomGuides",
+   "url": "https://github.com/ARandomDumDev/RandomGuides",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RandomBot",
+   "url": "https://github.com/ARandomDumDev/RandomBot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RandomWake",
+   "url": "https://github.com/ARandomDumDev/RandomWake",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RandomOS",
+   "url": "https://github.com/ARandomDumDev/RandomOS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RobloxLabs-Roblox.SiteTest4",
+   "url": "https://github.com/ARandomDumDev/RobloxLabs-Roblox.SiteTest4",
+   "text": "A reupload of sitetest4.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "AltServer-Linux",
+   "url": "https://github.com/ARandomDumDev/AltServer-Linux",
+   "text": "AltServer for AltStore, but on-device",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "uYouEnhanced",
+   "url": "https://github.com/ARandomDumDev/uYouEnhanced",
+   "text": "uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "RandomHub",
+   "url": "https://github.com/ARandomDumDev/RandomHub",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MikuMikuBeam",
+   "url": "https://github.com/ARandomDumDev/MikuMikuBeam",
+   "text": "An open-source network stresser tool but it's Hatsune Miku",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RandomConvert",
+   "url": "https://github.com/ARandomDumDev/RandomConvert",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TableBuilder",
+   "url": "https://github.com/ARandomDumDev/TableBuilder",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "RandomQuiz",
+   "url": "https://github.com/ARandomDumDev/RandomQuiz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "RandomRedirects",
+   "url": "https://github.com/ARandomDumDev/RandomRedirects",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
