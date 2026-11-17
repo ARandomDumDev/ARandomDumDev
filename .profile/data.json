@@ -1,5 +1,5 @@
 {
- "key": "df99715d",
+ "key": "679e411e",
  "stars": 1,
  "contributions": 167,
  "repos": 35,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
