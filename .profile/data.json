@@ -1,8 +1,8 @@
 {
- "key": "4f65f2b4",
- "stars": 1,
- "contributions": 165,
- "repos": 37,
+ "key": "ca1c3912",
+ "stars": 2,
+ "contributions": 172,
+ "repos": 39,
  "followers": 0,
  "languages": [
   [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 7,
     "day": 26,
     "today": true
    },
@@ -140,11 +140,20 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [],
  "all": [
+  {
+   "name": "rustcord-ios",
+   "url": "https://github.com/ARandomDumDev/rustcord-ios",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
   {
    "name": "ExperienceGui",
    "url": "https://github.com/ARandomDumDev/ExperienceGui",
@@ -152,6 +161,15 @@
    "fork": false,
    "stars": 1,
    "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "discord-rust-ios",
+   "url": "https://github.com/ARandomDumDev/discord-rust-ios",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
